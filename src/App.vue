@@ -6,6 +6,10 @@ import Products from './components/Products.vue';
 
 </script>
 
-<template></template>
+<template>
+  <header></header>
+  <Footer></Footer>
+  <Products></Products>
+</template>
 
 <style></style>
